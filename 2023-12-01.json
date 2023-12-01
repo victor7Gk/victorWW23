@@ -1,0 +1,26 @@
+{
+  "name": "Lela Blake",
+  "age": 54,
+  "address": {
+    "street": "Jabe Parkway",
+    "city": "Usatidu",
+    "state": "DC",
+    "zip": "70571"
+  },
+  "contact": {
+    "phone": "(664) 765-9876",
+    "servicePhone": "800698143"
+  },
+  "birthday": "1999-08-20T09:01:23.700Z",
+  "ip": "172.156.208.143",
+  "foo": "bar",
+  "profile": {
+    "about": "Petowsek amvi beafeju his itcab ufteif saw wa tuj tup ta ja vecje nu motkejej. Tug zosu zeodlon nazufoj fuf letbi zameksit navwoh fup at za futozzuj haheho divun. Onnapeta ja ziugwi ve ri jeficjol ovrim tumgudo ijo da fokvec umi supzi.",
+    "bio": "Aw imaozumes ki sut gewgog ru si gec re uvojocsa vemo volsojap riz pesah cefoj le ramjuvoc. Jifula ci gabo adfikuh bi mizu coro madem bi fuwnelu ulo wem pulfe. Haucbu jomasfah zeni focvufmok teoja cuptuna awufuvu ge coleto huwapec eb gipe. Ukcubne pokerowo ipomas ivo pijliben roso lawa po oruodenan ugecuiw efenuwa cosof vog zoz ge imijo. Ho fowo umoru kofmul ebtaw jibi bu fe huf emezuw wulvufo rup dachef fowwim ra."
+  },
+  "apiKey": "ad18b33b7faddc5c2cd0ecd7ff8174014af328bc03c0ee6bba16dd3ebc275686",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
