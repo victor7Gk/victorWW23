@@ -1,0 +1,26 @@
+{
+  "name": "Marc Bates",
+  "age": 41,
+  "address": {
+    "street": "Tizi Mill",
+    "city": "Eguahgut",
+    "state": "AR",
+    "zip": "25337"
+  },
+  "contact": {
+    "phone": "(921) 295-9221",
+    "servicePhone": "800661193"
+  },
+  "birthday": "1973-03-15T15:38:12.544Z",
+  "ip": "235.119.40.66",
+  "foo": "bar",
+  "profile": {
+    "about": "Pecaku wuji fuca mod rel tir wodbom cueda gu to fussaw olkim ju juzezke lojikzi. Ucugovoru nodfutu ewipez wu kub huf joh gasugav re akibiveb aw okojhi. Vifaud timav foszeena ci ro tijafmam dawepvem huvoab on la su liwrowi lo mibic acowo mego col zawtatis.",
+    "bio": "Diskan izeal ki hawige vak jugremfaz kubut jorse le ros lufjeife kap upkefsi zebot. Epumupdak to as rihaepu dalocolu dezo evoto dibwido ud jer ugomor delom jerazas ge zi uzavirti kaace vebop. Vehfewer fehac lasru map ipo bawovu vevafe ovipi ukarun coceudi udeji rusal upwubulo inikcu cabvivek."
+  },
+  "apiKey": "0c2bff199fcb467f4f87a58ee36d4cb410c09fcc0341b833a21977d5576d4f37",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
