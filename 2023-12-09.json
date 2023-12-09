@@ -1,0 +1,26 @@
+{
+  "name": "Micheal King",
+  "age": 57,
+  "address": {
+    "street": "Umhi Boulevard",
+    "city": "Nopuzo",
+    "state": "NJ",
+    "zip": "52688"
+  },
+  "contact": {
+    "phone": "(934) 269-6019",
+    "servicePhone": "800199556"
+  },
+  "birthday": "1990-10-01T07:23:52.309Z",
+  "ip": "33.214.165.224",
+  "foo": "bar",
+  "profile": {
+    "about": "Mozdevup vefa et hi oz nokocla oto il deblunod mow gaf ru mibiup iwenagbuk. Wisadbo nap tihsepos ve wakju wo buz kofjit jegcit uheekirag gotzipej ipi zopam nunigvi. Emlujva nej erkauwo piehu biegohi hujdom piezoka ricvohuv sewoj da zibnu sabug gihet ovfavpoh.",
+    "bio": "Su naf dip iv homifseg didu loivgec um let la vafhawva velacril olrulgar use jum imjoh. Hi ticamwu woobfah mup kiolali masu nod amozo edpuw icifocuv sir japce fewebih pe ofpone rug bijsic nuzarpa. Na uw je tavemhe sup ce paoh igo erujuc ercusul caz nob du. Ikzel musaj jid doctaka eda cuikococ ni ku gah ifo leozuwik ivacac aridume. Badidife lisuhe ku mimvud gubupbor fugmev hekja je juh cu onute suf team. Aci weh ta keuh kadir hesvezup dac ime gius edle temjad zige zi ok wirvamwi gun. Lu haati fepo nete fif inpe vif kuwganci tesug noerami ide botul ad ojurag dojurjel adtupaz gopesino."
+  },
+  "apiKey": "46bcee4c2d9f0a37662d153b2adba69f5b0d6388e0d981f029accad9d72ea7c7",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
