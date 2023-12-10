@@ -1,0 +1,26 @@
+{
+  "name": "Roxie Mason",
+  "age": 23,
+  "address": {
+    "street": "Buhda Pike",
+    "city": "Lijisjo",
+    "state": "CO",
+    "zip": "85365"
+  },
+  "contact": {
+    "phone": "(535) 270-8228",
+    "servicePhone": "800175611"
+  },
+  "birthday": "1963-03-27T17:37:58.545Z",
+  "ip": "158.178.251.233",
+  "foo": "bar",
+  "profile": {
+    "about": "Gomu jasre wurovuz kogohat nufpewu kubtolheb ow kis wilgew uli seki med epu. Musepnav zanafuvo cova ciwbu asa temok tevetu saj fot insite senecih wo eneotla ro connufvap luslis. Nes gucan sa rizcu efiabo ud nu fililuve maok luorte sos duk de top miede wi sozkeb baf. Ur wotoih mirvab faibumo jozuswi upaohfuv honbi utvinti aserem tu cajuhib akolad ufda ce cu.",
+    "bio": "Pi mifcurel fal wopnec ifu gur rohe unena me pejo onvu mobimi. Uma muvnil wuladud fulrukehi wablavo wohegukoc topraluho bib puzifa mucavuga likaguni onafep kedafepa hi biguf hemuzla le. Zodupe pumor ajoohevo cuciw vet nu hototgo zuapned kutodgi jeig ubeah arizu aduibini. Gow fub radagnuk apzovom uvhu soregaka itvi lano go ug sothohi du tirnub. Zuf bupulvom firuvhu le ci wet cu okwi bi bos wuebejal wuso za ifjoti al. Lam tis ruvdig owekefo rak sokgiwupi osuubunok rupo jugkil bu go muppemob me nifetmoc macnekve fibcadlec cazka."
+  },
+  "apiKey": "9e8c53facfe8092d4d9561f394def5f02a079124edc143d76c831c42583c538c",
+  "currency": {
+    "code": "UYU",
+    "name": "Uruguay Peso"
+  }
+}
