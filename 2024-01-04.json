@@ -1,0 +1,26 @@
+{
+  "name": "Amy Saunders",
+  "age": 20,
+  "address": {
+    "street": "Pifoj View",
+    "city": "Canabule",
+    "state": "NE",
+    "zip": "84812"
+  },
+  "contact": {
+    "phone": "(529) 736-7761",
+    "servicePhone": "800111922"
+  },
+  "birthday": "1980-08-07T09:18:00.338Z",
+  "ip": "111.149.97.149",
+  "foo": "bar",
+  "profile": {
+    "about": "Gudmac nawzik wohtivhuj visicuhuz minev heojnas herewro puc sen fatofi uw pojle ela loot kincik ji. Fe navis lucna ormu ha batkurha ra kedho hucecjo ijicode dod ho gu. Dupebziv zagvugiv al cojwu ofizo defosiv gefon asabisvi babdavim zanahgu hedpuh sez zuojare. Koknameg wicekju wakmeb jo jod inu ewapek nedveheb fildimse sibul zudvelo eknifo nurmuiw ur gonvo vaho.",
+    "bio": "Leutbu co ojodoghon limrepla idvufo nuirve ukmazjaj bajne fozilume nuv ikme jes toisho nowabhim liicjif hiz mumvun. Cahag misdumil aze totuod rutob ef voke sanna dewo evzuhme pagoved dunip jastazkav umovu ikwuttun. Faresev izanu utzigba biobi pilhe zoigegu nuho etu fazso ri aru wepepubek kislelu komudu. Sen puzuci heh hagi ojegip epzigmah buw me vegzap uzbe joefkub jiwme. Nuzwu izdoika febresu nez bel vulutsoj voone re leozemo toike cugluhpeb uhoka tode faw iprupu."
+  },
+  "apiKey": "202fe2acde2cbfc0fbe2788016832198f1719a9a2acfd927149062e0feed2f99",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}
