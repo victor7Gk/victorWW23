@@ -1,0 +1,26 @@
+{
+  "name": "Lina Morton",
+  "age": 64,
+  "address": {
+    "street": "Jabu Plaza",
+    "city": "Uzkotek",
+    "state": "ID",
+    "zip": "64175"
+  },
+  "contact": {
+    "phone": "(201) 764-1465",
+    "servicePhone": "800644628"
+  },
+  "birthday": "1960-11-05T05:34:28.324Z",
+  "ip": "253.172.93.119",
+  "foo": "bar",
+  "profile": {
+    "about": "Bag bidfimtob vuh di ka pebah elu nudivuj vivmeito va vo da uh uctunkuv dotke. Idelo ar ze zebbab gabmu nat tizloza kotejo elju mimolol kieg ribieca peb uwa bomsiju vomaka. Pad or nah hiobmuh patojiwef lo busi ewedej keh sehba ves ica gisewaki ogutitob pu.",
+    "bio": "Corizci jek ujelazwuk vuv effe galkoca evuzfuc ir seha iwza li rabula owapetnin rag kozhuawe wab. Udvabme wad mipwevuge ruc pomic behlen wokumat lul eciaru tuc gaipwow piruj osfuvog dedsaw. Rer maficu fohjista fe ziloel vivu udri cobzuofu ebiwof dahika ogelokew agza utuzi ba modjavu."
+  },
+  "apiKey": "286bfed15867ce662a06877503a2907218ec11d5a26e73e3fce312d6be34889d",
+  "currency": {
+    "code": "SLL",
+    "name": "Sierra Leone Leone"
+  }
+}
