@@ -1,0 +1,26 @@
+{
+  "name": "Jason Brock",
+  "age": 57,
+  "address": {
+    "street": "Vulkif Place",
+    "city": "Petsaulu",
+    "state": "MD",
+    "zip": "11502"
+  },
+  "contact": {
+    "phone": "(664) 717-9369",
+    "servicePhone": "800353475"
+  },
+  "birthday": "1983-07-04T03:34:49.674Z",
+  "ip": "56.135.154.54",
+  "foo": "bar",
+  "profile": {
+    "about": "Hamerka rekwatol azri rozwinru daguklu gitojun posijo ikiimoiro baphinew bic dac vijolew jenem doseni bufartoc. Ufi opso eb jesah an sisbe ru jufnoktu jikhin ridwi vis bihe ur atempa naluk. Sit rinfutaw cirba seza sogdori diris basib munmip nasafdo ur hogsu lotve ewbe fi lo bactejze. To polobibe nuherun ram arut wiggi pub sogkesti ve cetik abgaw runit rouce. Laepcus cemvevgot ib kep hodlumik him cegtobho et bozdiwu jijiofa uk piemetu tuj ne harkec ubfiila. Ici vani uvbat riafo hol balaneh cuzdeta deh su wu bow fase goge nuwdibtof.",
+    "bio": "Wik munurgus ru tan kevik kot mir tukupi jugpu gahte zaeni bol fassupbis. Lucouze mir ido lam fos folur vomki mosil ke wibzeso imcuszer afvomfiv ojhomdi miwuwa azusited livel ro cal. Miwiraze zurhel binuflo cohjuvvoj madov hatdatit ojubuz la tu ol iwi cu gugcilmi. Kin sudsig dumcevper fiw pew goopgeg cu ipeto jez coducub ejoefjez ridnuju fuhad hit pulud. Su imzuk sef rufotzem jetumle pijradpan pose pipzopbiw co pe ef larvugraf fin woopgo inuor. Hebgic rifehi fo soh muof ledogbut zi iv lalfa ucmo ez wifbawsaf. Liohre hibe giguti fe pe rigviegi nusnisi cek po ug acolicog wovatefed dohwaabu ohhewog mac."
+  },
+  "apiKey": "f5a2ed2e35acc9ba29510568f663edc116cb6d9e335e129baafb7e6ae652d3a8",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
