@@ -1,0 +1,26 @@
+{
+  "name": "Theresa Alexander",
+  "age": 64,
+  "address": {
+    "street": "Ofobu Place",
+    "city": "Ibeahhi",
+    "state": "MO",
+    "zip": "35221"
+  },
+  "contact": {
+    "phone": "(211) 484-3939",
+    "servicePhone": "800413722"
+  },
+  "birthday": "1987-09-23T17:13:44.009Z",
+  "ip": "33.154.38.105",
+  "foo": "bar",
+  "profile": {
+    "about": "Derivha itru nuhmat gokejdig ze ibo ap kotnobme uzu pawobva sih fuvowa zibzicen. Noor leoca tufiw haczugak tap sevir uneobe asezep vi fias jedu cozefa riw tuz. Hijel ceznov naasoh copnuclos rucjem buumudik bokinawem tuh jif nor zaje miozecuz.",
+    "bio": "Uc kankipub ukidu dumsugeh fofe gomnohna tazfu ka uskerog hoho keh lod su besbih zu ko. Picene zu aturat sos giowo vovoja maebma sikut jonabko hubwonje cu ihmiwsik od giuwof. Celecal pepuv ciwru ubzi cede pabukda sot ca nuwogjim pi cifwa kacloseba hocenpav zo. Ajgu fazus nesgunha iwkavi pojulul sajloka fuse hikonit hiw rinfeg ja fueci nuludil."
+  },
+  "apiKey": "6ec8249e2aadf0d8c916822754caed3626f4687646047941bc95fb173603c018",
+  "currency": {
+    "code": "MMK",
+    "name": "Myanmar (Burma) Kyat"
+  }
+}
