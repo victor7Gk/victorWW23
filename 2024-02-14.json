@@ -1,0 +1,26 @@
+{
+  "name": "Aiden Shelton",
+  "age": 42,
+  "address": {
+    "street": "Kenfu Pass",
+    "city": "Dolomre",
+    "state": "IN",
+    "zip": "64704"
+  },
+  "contact": {
+    "phone": "(538) 561-5334",
+    "servicePhone": "800528758"
+  },
+  "birthday": "1963-05-10T17:27:56.182Z",
+  "ip": "61.128.63.129",
+  "foo": "bar",
+  "profile": {
+    "about": "Hitihu wemomuli zo jato fejivafil je era revci rejiz cuakajak enuwac sezsazso bujre gi ri. Fupooci hofi udo onpiona han wohaj nano inonu id rihfuh ima miwowu isauskaz. Otburuz bumre ri zur sikju pefas tuwod cofofelat fotaj oniul ipvej wu momvu opo rom ci.",
+    "bio": "Lushoiho wugseh fekevat su le vepwaco suur gedaw uzanub nenero jekap anzige bepose aju. Hun nujrur viporoj makron ke ajaceiw cowluku vof buili ful owig korkom ke lohropos. Mavlepul kawvaw loriz hu heporwal hemob ezonuc ja rezumbag rejfaz ewe faztu zi fedpe tok. Sat bab sikrudeh ihmeh acuzom lasciw ergu mo muhevzuz icho tedhikmek sononkos davuc. Fetar wad ifje wib umibamej buaz luz medpeb azofusuna nuucme tap at or dov ik tow."
+  },
+  "apiKey": "761da54330cb5d914fd5288c8984f7733ddc96c6ca5513f09086f94c5385dbd5",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
