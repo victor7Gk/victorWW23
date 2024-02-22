@@ -1,0 +1,26 @@
+{
+  "name": "Frank Maldonado",
+  "age": 45,
+  "address": {
+    "street": "Cibte Center",
+    "city": "Merbitif",
+    "state": "CO",
+    "zip": "52983"
+  },
+  "contact": {
+    "phone": "(738) 923-8129",
+    "servicePhone": "800765942"
+  },
+  "birthday": "1967-06-21T11:18:42.210Z",
+  "ip": "252.252.117.96",
+  "foo": "bar",
+  "profile": {
+    "about": "Midokli delewe nasota ihupovtul puwjupi pu fapoj can valiz kakwu gehja jot ta mezom jascubca muto. Uvnoh tovoz vecfe uzi jusos fohunih tafrec bekut hina ubo cu pocfe gucsopib erebubi selo. Fewlusi hijliwoj gecomi oj ze ne gebuer jezhi vohone waecub degu ebi uvuja mehis. Veccuvce hobnizpub jasuvlah igozobew rocpicel ige vus goborzu vemmeg wuanvap gefavaro ce tieme loipu ci ep. Eh tolzem jofa ridtimbez zad boviz fuhroti fiwegton jodoav bebariwof me seuthik cesvab nov. Jupsu ujvo vi cim zak awoizhe mora pel mo tohumi gi sorku ha hetfiz toezak. Ij uceazufu wufiwe buhi cif juor tiva kemkag eguhemiw sibusne uprum fogocmu fatjus lorrekpi tof fib.",
+    "bio": "Lif taneszaw ma setome nul dihubfuh pijkoru dahri bar uhifidgej teg lufebgo suannop hudono. Budupob talalah mam jado jaegi atwehuta jet iddivdo ecizozigi upbel mo huz jaj nesob izozi. Ucikeva pac ehu lawah uw kofwawug zuspiwi kib noligama li tobaw favuc. Acatamite gi leshowipa uteli nafi ufiis surisbo uzazam jaah muscon oweho dacpesgoc cemkob upevaw. De ossup saljompe jutah kumi lenoohu idleop caol jic jipod lezecfa me inifibi wes urhiopi mo buvijew."
+  },
+  "apiKey": "1d3e7050aeddd8668d9a033855405d8daf3f5810e6aac89e5dd3f8d69f09d976",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
