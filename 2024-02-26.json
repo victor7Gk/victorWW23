@@ -1,0 +1,26 @@
+{
+  "name": "Dora Blake",
+  "age": 32,
+  "address": {
+    "street": "Keppe Turnpike",
+    "city": "Ohefila",
+    "state": "NH",
+    "zip": "90512"
+  },
+  "contact": {
+    "phone": "(787) 999-8982",
+    "servicePhone": "800693679"
+  },
+  "birthday": "1991-09-25T00:03:58.275Z",
+  "ip": "113.179.12.23",
+  "foo": "bar",
+  "profile": {
+    "about": "Fojof daize ducjeica awiseih arbo ibotig vur eb iliupuvi poza govi mosujoti razhezet vu bi sa eji doje. Bi pogcep ero wihugrip muom zew ucupo wogif sat nopeuju tadate no telzudcuw te dozzaz mep nesiop. Ewoacmil on visjiho deavotom zek sodsil kari ucpub jap kano koufgub piwac boragco.",
+    "bio": "Isuaba awsov pepawi ucfudu pawmuh sefuho pan zivu do rodave fuwkindav ja vuwco judla fukuhuodu nirtus bubow zik. Oti mefis ruc nud kerdu merjukof egori ew uvukaw bu guwlimun sujalket jog pe tudjop lab ju wimda. Nolpufsik bovnom hu rihzef luse ugusu temoki nercaak injafow al jewejro fetave ko velaglam. Uj ozahal wub letwodu bu wugbavlig conma lanu elawokat jetrise warlazip fomrow sez ese. Maf sovetpo iwfih idolcih lodtige zin ho rip badoviike diuvop horduhdu li. Dicnu luneh hihwen ano wiga zinwup zogusfis mifgohe la fohboko weclu kagit se av. Vet vivmipi ozekogem eripulvaj povad wizvomdu ogofzig ziubales bataz picemoh ujobuaze kuz."
+  },
+  "apiKey": "6b190d1abfd4083d1a180862f9671a122b86206f9046ecc00b565ca2bf1e8b00",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}
