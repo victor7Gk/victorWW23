@@ -1,0 +1,26 @@
+{
+  "name": "Jonathan Hart",
+  "age": 30,
+  "address": {
+    "street": "Bemot Turnpike",
+    "city": "Wuwuwac",
+    "state": "UT",
+    "zip": "12406"
+  },
+  "contact": {
+    "phone": "(837) 490-7003",
+    "servicePhone": "800277757"
+  },
+  "birthday": "2004-09-01T00:45:37.548Z",
+  "ip": "112.19.206.22",
+  "foo": "bar",
+  "profile": {
+    "about": "Izo sokom veenetek huiwonul fe gu wa igihi lucca maasgo nub paf hecodpem wohow rosoav hiksukod wipo. Odocora cowufve ta toj uleutabus za uw rujduki siih cohawu ob cuzul dig judke fohihi. Ra rug josih hefze pigtocin cuc vek na mufjo bak ge eci goful sipera wu pubew dapuvu cufisner. Etpewo vivkac nurabo gisi ogohof no se fihu galkug tuvumeza to viaf bapdim idowuil su ari.",
+    "bio": "Ne vul didpam lulihurad azwirmu ukoikifoc sawkecig supgubal utiv iwigerho zuscosa fug vigmuvid da wadena badipu. Ciebodi lubsibik awouj uzuvar hejgintoc recusdi ur zogeswow go kiroz doneso pepal ivahoc webep degihpo lu zulriw hiba. Jifihcod acpi opa ifohuwo veduwo mevgu jo ibmilfa totwan es bug iwuihuso."
+  },
+  "apiKey": "d6388799e4054fc1b43491056324d45a3f653341d8581954c5862ed8611ef3ed",
+  "currency": {
+    "code": "TJS",
+    "name": "Tajikistan Somoni"
+  }
+}
