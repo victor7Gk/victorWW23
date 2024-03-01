@@ -1,0 +1,26 @@
+{
+  "name": "Cynthia Gomez",
+  "age": 54,
+  "address": {
+    "street": "Rakju Extension",
+    "city": "Luwjevdec",
+    "state": "VA",
+    "zip": "14853"
+  },
+  "contact": {
+    "phone": "(986) 816-6635",
+    "servicePhone": "800417248"
+  },
+  "birthday": "1995-09-18T18:01:49.738Z",
+  "ip": "205.67.241.250",
+  "foo": "bar",
+  "profile": {
+    "about": "Ga jijufac savnipezi gude izjub cadcure sihsitpog mujummid alvigti sehdu ebadasov voruho ni ozuzi. Gu pedru bibfo aftepij sar ojigosgu pim dorsahha not zat pazsi pigjese uh orusza lipuoh. Lefzoz fa jewduzwem nocuhme fan okku ji vu gaso zuw wonaos guwokeli ke.",
+    "bio": "Gijo jizbu kauh bupti re jorlewga gomecaz kiofito giv nehuco uz fuhcikna ji ced. Piroke sor nuafu bi ji danalaifo ebaugu suuzuho tez poj bawurvoc beg mawafgo ro bo. Seusicu zew omacesri ku onikumezi biepa dopiku zo lolkazzip wogmovfo ija rad tevhohat ogdis akpa."
+  },
+  "apiKey": "6dfeae97ab343ae99976cfa8b0d91be9e976a2a2e475ce7818bb5d1fe1f5ec32",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
