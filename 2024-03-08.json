@@ -1,0 +1,26 @@
+{
+  "name": "Helena Ford",
+  "age": 45,
+  "address": {
+    "street": "Wugabe Plaza",
+    "city": "Juzakden",
+    "state": "NY",
+    "zip": "51481"
+  },
+  "contact": {
+    "phone": "(776) 860-3917",
+    "servicePhone": "800495672"
+  },
+  "birthday": "1985-10-10T04:29:43.159Z",
+  "ip": "124.72.190.61",
+  "foo": "bar",
+  "profile": {
+    "about": "Tujov abauc ehureip zu wuj gisso zi nupoc up hi sa om ebbow wo pocek gepojab oh. Oczah kecaju alenikaf seide piov jef uv ejab gecrapaw sumwod nusrik jegvucawo wuwnu. Uw naz vifda jog ur bovzob inram edazaiva ejookowu ag nu zofsufmi fa tisufofam ah getok unajisvi javorsuj. Ja suif lomot ziwha hiema ucaziva biblordis latlifi bife ukjef usomu lehuwog.",
+    "bio": "Abaajite ehawipveh weblag buro eloopubut topzulkib etlaz go acohu ji pako iwzom. Defzoog duatoluw tivla poce ezujo ruw punbe nek jimbavi wilhavupi cosdatuv tosud rinioti tifiju vu subboc va miw. Hezuam mupe depvi zuziziri jokom zediz famra uc pat fesnatov no fapin saututes kokinak cohubge niswi simob ehfubi."
+  },
+  "apiKey": "3450fb7b9d71eb501545c2d8aad28996957ca7da8aabe7ae67618a157ff9a9cf",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
