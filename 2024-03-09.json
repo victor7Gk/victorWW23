@@ -1,0 +1,26 @@
+{
+  "name": "Jerry Fletcher",
+  "age": 20,
+  "address": {
+    "street": "Wirus Loop",
+    "city": "Pemcouk",
+    "state": "MI",
+    "zip": "41826"
+  },
+  "contact": {
+    "phone": "(804) 499-9966",
+    "servicePhone": "800319191"
+  },
+  "birthday": "1970-06-24T20:10:58.160Z",
+  "ip": "82.126.70.228",
+  "foo": "bar",
+  "profile": {
+    "about": "Ba vueboiz nuzwanu pahetva ferdapu goc usokidun vah vero fufa pufako lifoho sup. Zu zakduhih vinnu sasu boahu ehogoulo mi ac gatzavgoz cag ativa lospotif. Nadbe fegoc es no tucaf ivokici vo gegafal tek go kugaw meamuib humuc mer es lukan ag wob. Rupafiove falad nofe ci tobo vucbi ubfunev pinow nuzluj hata uwu seew umuf erveh.",
+    "bio": "Fes seoh edat rejmof zoti divda apuwnip fi buli fu elotokim so vavnu us cim. Obokiuj goggifra cekdu hemo mo wajezup natiduk wopa ze gusvul fufvo guh gumzu tizu hicow eze. Kidup filaha jar towudbow mi dabe rijoszez su temfa bopokdo mele nupep bid rop."
+  },
+  "apiKey": "a46521bb910192f5fc13cc50c5e25684e938e4700e36a3ebe6b9c1674dfe3be9",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro Member Countries"
+  }
+}
