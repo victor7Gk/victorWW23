@@ -1,0 +1,26 @@
+{
+  "name": "David Abbott",
+  "age": 21,
+  "address": {
+    "street": "Peeha Turnpike",
+    "city": "Ridewe",
+    "state": "CT",
+    "zip": "66983"
+  },
+  "contact": {
+    "phone": "(528) 516-8272",
+    "servicePhone": "800849346"
+  },
+  "birthday": "1976-12-12T03:31:52.812Z",
+  "ip": "88.192.58.39",
+  "foo": "bar",
+  "profile": {
+    "about": "Voze evabashe gar fi og rolo erhel ugate feuziji ipje ojemo tovipi daz isivu id. Vadisme nu hadtasono enbobeb dor luzbohof go cirvo tev uj co cav lud meldaat roac ti dittiabe. Dehen ekosur gihemuz gas soma bini nom bumet ohopaj ah zeziziz nici om. Toidmul jegpovok gat zakva tetne wagfet rerne uhsofep mih hat tu ciki ohzehwub.",
+    "bio": "Lupifa ufetear somvepka ijucog sajov nodovvid ha baredoroc tuhjirru liek wiveguk actu sigat fehfe wodomez fon. Hulolvi penujoc ukoat wevojo susvatug ha dozcad solkug hemepuvu eseipunin touhogit ji wimida hohobzu napkukza zuubikuk zo uh. Ov ezo vi giimo mefem ti rounzoz jon ipziwbe cajpak tu mehakhoc ga. Va opfo nin ditjumuf fohoja bora aliluhlu kimbane afu nouw zuso ma wujtiv web ledor newud ho sahpon. Wojzu wusacno juzhu rijuofo fiidasi nezi kal ol tupivi bevlupgi kek vogo facfadaz tugiw wama. Irrozufe fil nisir lekak igo dovdur fib fopfav igiomi rirto botum rewvo ci."
+  },
+  "apiKey": "6990367e180dece085df3981014ce6f4f3e305de58165334b1571c67dc5516a4",
+  "currency": {
+    "code": "LYD",
+    "name": "Libya Dinar"
+  }
+}
