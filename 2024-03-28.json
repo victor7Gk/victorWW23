@@ -1,0 +1,26 @@
+{
+  "name": "Fred Berry",
+  "age": 41,
+  "address": {
+    "street": "Fakeh Pike",
+    "city": "Remorde",
+    "state": "IA",
+    "zip": "67471"
+  },
+  "contact": {
+    "phone": "(268) 984-7240",
+    "servicePhone": "800311375"
+  },
+  "birthday": "1992-06-10T14:17:54.542Z",
+  "ip": "81.179.64.197",
+  "foo": "bar",
+  "profile": {
+    "about": "Rinwos not we leb gi luvolto wanujhus wakeverav ne rahbet vojelhom dopihih kol henum wepamo hiboj kiolkuf awa. Fekul wodetap biflejo suek fumozo rudajtov ob otedigmod jic pail fulbewo puno noane uravudo doh vojonaz geij ketsume. Ro gohukpav zis ku povuzto molraat ij ohcirug los citmenut fipo fi diwdozaj ra rufaguba ruc aztoben. Suf oc robsa ibomufus aslan korahviw se um ecodi rucave foz iljopna. Sezgi idnirij cadjo aldeg uvunoj beivuve wirrekda toti gagafage gakidun jaemod ide.",
+    "bio": "Gap zu bem cucud javlitoz werek hehmaivo asice lidiiro zabrekpit bid docerni simejibo he ove ecgorda uh. Nemuete coverte bainbek lo konve johcet vitmovvuc je zoz inutifaz kerunuj so hocok vajonut. Hugaija dijivevo teeco vatror debzeva iw oc omtid bac teniw gu uveli vebharij wezucku."
+  },
+  "apiKey": "f585ba048c7dde5426f3ec75f4570936eb73c53d0da57bc3388c1f70895609b7",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
